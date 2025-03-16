@@ -28,6 +28,8 @@ Here are some ideas to get you started:
  - 💻
     ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
     ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=007396)
+    ![React](https://shields.io/badge/react-black?logo=react&style=flat)
+    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
  - 🌐 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
