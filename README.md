@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm Anderson Santos💻👋
 
+<p>Web developer with a strong track record of designing and developing applications across telecommunications, education, finance, and public organizations. Experienced in leading full-stack projects from concept to deployment, ensuring efficiency, scalability, and high performance. Passionate about building robust software solutions that drive innovation and enhance user experiences.</p>
+
 <p align="center" >
   <img height="180em" width=100% src="https://github-readme-streak-stats.herokuapp.com?user=andersantos93&theme=dark&hide_border=true)" />
   <a href="https://github.com/andersantos93">
